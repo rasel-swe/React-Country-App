@@ -1,0 +1,15 @@
+.div {
+  text-align: center;
+}
+input {
+  padding: 0.5rem;
+  border-radius: 1.5rem;
+  width: 40rem;
+  font-size: 1rem;
+  background-color: #eeeeee;
+}
+
+input:focus {
+  background-color: #2f3640;
+  color: white;
+}
